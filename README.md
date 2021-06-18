@@ -58,15 +58,12 @@ We already know that this is not a common practice but for the priject is a usef
 
 - To have persistency and disponibility balance of data our architecture are communicate with two differents databases. Users and Links.
 
-- Buscar referentes para justificar esto. Persistencia y disponibalidad de bases (Alejandro) (cap())
-
 - The relation with users and links module is to assurance ,create trustness and rapidy response to the user infraction policies.
 
 ![Architecture](https://raw.githubusercontent.com/AbejaCruz/rfcs-AdminServices/a0fb216e59db7a45b2e8085c4323c8585dd82c41/images/Admin%20Platzily.svg)
 
 ![Architecture](https://raw.githubusercontent.com/AbejaCruz/rfcs-AdminServices/a0fb216e59db7a45b2e8085c4323c8585dd82c41/images/Admin%20Platzily_c3.svg)
 
-- ¿Qué es un componente en la aplicación?
 
 # Drawbacks
 
