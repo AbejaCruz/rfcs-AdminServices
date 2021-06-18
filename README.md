@@ -62,9 +62,9 @@ We already know that this is not a common practice but for the priject is a usef
 
 - The relation with users and links module is to assurance ,create trustness and rapidy response to the user infraction policies.
 
-![Architecture](./images/Admin_Platzily.svg)
+![Architecture](https://raw.githubusercontent.com/AbejaCruz/rfcs-AdminServices/a0fb216e59db7a45b2e8085c4323c8585dd82c41/images/Admin%20Platzily.svg)
 
-![Architecture](./images/Admin_Platzily_c3.svg)
+![Architecture](https://raw.githubusercontent.com/AbejaCruz/rfcs-AdminServices/a0fb216e59db7a45b2e8085c4323c8585dd82c41/images/Admin%20Platzily_c3.svg)
 
 - ¿Qué es un componente en la aplicación?
 
